@@ -1,5 +1,5 @@
 # web-crawler-scrapy
-- Terminal Commands for Scrapy
+- Terminal Commands for running Scrapy
     1. Install package
         
         ```bash
